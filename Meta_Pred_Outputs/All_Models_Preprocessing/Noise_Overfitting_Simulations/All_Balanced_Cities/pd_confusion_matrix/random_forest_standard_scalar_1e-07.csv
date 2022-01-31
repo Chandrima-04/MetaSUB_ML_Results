@@ -1,0 +1,17 @@
+Actual city,berlin,fairbanks,hong_kong,kuala_lumpur,london,new_york_city,offa,oslo,porto,rio_de_janeiro,san_francisco,santiago,sendai,stockholm,tokyo
+berlin,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+denver,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0
+fairbanks,1,2,0,0,0,0,1,1,2,0,0,0,0,0,0
+hong_kong,0,0,4,0,0,0,0,0,0,0,1,0,0,0,0
+kuala_lumpur,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+london,0,0,0,0,4,0,0,0,0,0,0,0,0,1,0
+new_york_city,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0
+offa,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0
+oslo,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0
+porto,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
+rio_de_janeiro,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+san_francisco,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0
+santiago,0,0,0,0,0,0,0,0,0,0,1,4,0,0,0
+sendai,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0
+stockholm,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+tokyo,0,1,0,0,0,0,0,0,0,0,0,0,0,0,6
