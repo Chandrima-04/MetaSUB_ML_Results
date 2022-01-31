@@ -1,0 +1,2 @@
+,Accuracy,Precision,Recall
+linear_svc standard_scalar,0.6,0.6,0.6
