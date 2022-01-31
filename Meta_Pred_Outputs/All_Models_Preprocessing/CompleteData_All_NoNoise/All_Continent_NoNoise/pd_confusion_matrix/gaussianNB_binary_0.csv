@@ -1,0 +1,8 @@
+Actual continent,east_asia,europe,north_america,oceania,south_america,sub_saharan_africa
+east_asia,100,1,6,1,0,0
+europe,37,125,14,24,7,0
+middle_east,0,1,0,0,0,0
+north_america,17,41,57,10,2,0
+oceania,1,0,1,0,0,0
+south_america,0,3,5,0,10,0
+sub_saharan_africa,1,0,0,0,0,14
