@@ -1,0 +1,17 @@
+Actual city,london,new_york_city,offa,oslo,rio_de_janeiro,sendai,tokyo
+berlin,0,0,0,1,0,0,1
+denver,0,0,0,2,0,0,0
+fairbanks,2,0,1,2,0,2,0
+hong_kong,3,0,1,1,0,0,0
+kuala_lumpur,2,0,0,0,0,0,0
+london,4,0,0,1,0,0,0
+new_york_city,0,3,0,0,0,0,0
+offa,0,0,6,0,0,7,0
+oslo,4,0,0,0,0,0,0
+porto,0,0,0,2,0,0,0
+rio_de_janeiro,0,1,0,0,1,0,0
+san_francisco,0,0,0,3,0,0,0
+santiago,0,1,0,2,0,0,2
+sendai,0,0,0,2,0,0,0
+stockholm,0,0,0,3,0,0,0
+tokyo,2,0,2,2,0,1,0
