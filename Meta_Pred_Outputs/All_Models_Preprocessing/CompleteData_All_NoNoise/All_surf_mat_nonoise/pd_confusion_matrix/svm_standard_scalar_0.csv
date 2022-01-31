@@ -1,0 +1,36 @@
+Actual surface_material,glass,metal,plastic,skin,stairwell railing,underground (or underwater),wood,wooden bench
+-,1,4,0,0,0,0,0,0
+aboveground (open area),0,1,0,0,0,2,0,0
+carpet,0,2,0,0,0,0,0,0
+carpet_fabric,0,1,0,0,0,0,0,0
+ceiling rail,2,1,0,0,1,0,0,0
+center seat,1,0,0,0,0,0,0,0
+ceramic,0,2,0,0,0,0,0,0
+concrete,0,2,0,0,0,0,0,0
+doors,2,0,0,0,0,0,0,0
+faux leather,0,1,0,0,0,0,0,0
+glass,23,19,1,0,0,0,0,0
+kiosk,2,0,0,0,0,0,0,0
+metal,15,83,0,0,0,0,0,0
+metal_plastic,0,11,0,0,0,0,0,0
+metal_wood,4,4,0,0,0,0,0,0
+negative_control,0,1,0,0,0,0,0,0
+painted_metal,0,11,0,0,0,0,0,0
+paper,0,1,0,0,0,0,0,0
+plastic,0,22,11,0,0,0,0,0
+pole,0,1,0,0,1,0,0,0
+pvc,0,3,0,0,0,0,0,0
+rubber,0,15,0,0,0,0,0,0
+seat near door,2,0,0,0,0,0,0,0
+seat rail,0,2,0,0,0,0,0,0
+skin,0,0,0,19,0,0,0,0
+stainless steel,0,4,0,0,0,0,0,0
+stairwell railing,5,2,0,0,0,0,0,0
+tile,0,3,0,0,0,0,0,0
+tiles,0,2,0,0,0,0,0,0
+touchscreen_surface,0,1,0,0,0,0,0,0
+turnstile,3,1,0,0,0,0,0,0
+underground (or underwater),0,3,0,0,0,9,0,0
+vinyl,0,2,0,0,0,0,0,0
+wood,4,32,0,0,0,0,2,0
+wooden bench,7,1,0,0,0,0,0,1
